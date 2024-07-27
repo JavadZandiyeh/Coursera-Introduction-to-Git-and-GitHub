@@ -13,5 +13,7 @@ Learning Objectives:
 - Explain what Git is and its benefits of use
 - Install Git on local machine
 - Utilize Git to create and clone repositories, add code, check the status of code, and commit code
-  
-Hands-On: [Introducing Git](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/Introducing-Git.md)
+
+Summary: [Introduction to Version Control Summary](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/1-Introduction-to-Version-Control.md)
+
+Hands-On: [Introduction to Version Control Hands-On](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/Introducing-Git.md)
