@@ -66,4 +66,4 @@ Learning Objectives:
 
 Summary: [Collaboration Summary]()
 
-Hands-On: [Collaboration Hands-On]()
+Hands-On: [Collaboration Hands-On](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/Push-Local-Commits-to-Github.md)
