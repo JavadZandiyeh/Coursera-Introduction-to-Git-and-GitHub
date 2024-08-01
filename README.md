@@ -51,3 +51,19 @@ Learning Objectives:
 Summary: [Working with Remotes Summary](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/3-Working-With-Remotes.md)
 
 Hands-On: [Working with Remotes Hands-On](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/Introducing-Github.md)
+
+## 4. Collaboration
+In this module, you’ll continue to explore the collaboration tools available in Git. You’ll learn about the tools that are available to help improve the quality of your code and to better track your code. This includes an overview of pull requests and how the typical workflow of a pull request looks like on GitHub. Next, you’ll dive into how you can squash changes in your code. We’ll finish up by providing you with a study guide on fork and pull requests. Next up, we’ll cover what code reviews are and what the code review workflow looks like. Then, you’ll learn about how to use code reviews on GitHub. The final lesson of this module will focus on managing projects. We’ll take a rundown of best practices on managing projects and how to manage collaboration within those projects. We’ll explore different ways of tracking issues and finish up by discussing the concept of continuous integration with your projects.
+
+Learning Objectives:
+- Utilize the code review workflow
+- Create, update, and execute pull requests on GitHub
+- Explain what a code review is
+- Use code reviews in GitHub
+- Explain the importance of managing projects and accepting or rejecting changes
+- Utilize issue trackers
+- Describe the methodology behind continuous integration
+
+Summary: [Collaboration Summary]()
+
+Hands-On: [Collaboration Hands-On]()
