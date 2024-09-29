@@ -14,9 +14,9 @@ Learning Objectives:
 - Install Git on local machine
 - Utilize Git to create and clone repositories, add code, check the status of code, and commit code
 
-Summary: [Introduction to Version Control Summary](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/1-Introduction-to-Version-Control.md)
+Summary: [Introduction to Version Control Summary](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/Summary/1-Introduction-to-Version-Control.md)
 
-Hands-On: [Introduction to Version Control Hands-On](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/Introducing-Git.md)
+Hands-On: [Introduction to Version Control Hands-On](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/Hands-On/Introducing-Git.md)
 
 ## 2. Using Git Locally
 
@@ -31,9 +31,9 @@ Learning Objectives
 - Use merging to combine branched data
 - Manage and handle merge conflicts
 
-Summary: [Using Git Locally Summary](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/2-Using-Git-Locally.md)
+Summary: [Using Git Locally Summary](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/Summary/2-Using-Git-Locally.md)
 
-Hands-On: [Using Git Locally Hands-On](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/Git-Merge.md)
+Hands-On: [Using Git Locally Hands-On](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/Hands-On/Git-Merge.md)
 
 ## 3. Working with Remotes
 In this module, you’ll be introduced to GitHub and learn how it works with Git. You’ll create new repositories and clone those repositories onto your computer. Next, we’ll explain what a remote repository is, how we can work with them, and how we can host them. You’ll get familiar with commands like modify, stage, and commit, which will be used for local changes, as well as the fetch command, which can pull any changes from remote repositories. We'll cover secure shell protocol and when to use API keys. Our final lesson will focus on learning about conflicts. This will allow you to explore the concepts of pull-merge-push workflows, pushing remote branches and rebasing your changes.
@@ -48,9 +48,9 @@ Learning Objectives:
 - Push remote branches so code can be viewed and tested by collaborators
 - Explain what rebasing is
 
-Summary: [Working with Remotes Summary](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/3-Working-With-Remotes.md)
+Summary: [Working with Remotes Summary](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/Summary/3-Working-With-Remotes.md)
 
-Hands-On: [Working with Remotes Hands-On](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/Introducing-Github.md)
+Hands-On: [Working with Remotes Hands-On](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/Hands-On/Introducing-Github.md)
 
 ## 4. Collaboration
 In this module, you’ll continue to explore the collaboration tools available in Git. You’ll learn about the tools that are available to help improve the quality of your code and to better track your code. This includes an overview of pull requests and how the typical workflow of a pull request looks like on GitHub. Next, you’ll dive into how you can squash changes in your code. We’ll finish up by providing you with a study guide on fork and pull requests. Next up, we’ll cover what code reviews are and what the code review workflow looks like. Then, you’ll learn about how to use code reviews on GitHub. The final lesson of this module will focus on managing projects. We’ll take a rundown of best practices on managing projects and how to manage collaboration within those projects. We’ll explore different ways of tracking issues and finish up by discussing the concept of continuous integration with your projects.
@@ -64,6 +64,6 @@ Learning Objectives:
 - Utilize issue trackers
 - Describe the methodology behind continuous integration
 
-Summary: [Collaboration Summary](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/4-Collaboration.md)
+Summary: [Collaboration Summary](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/Summary/4-Collaboration.md)
 
-Hands-On: [Collaboration Hands-On](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/Push-Local-Commits-to-Github.md)
+Hands-On: [Collaboration Hands-On](https://github.com/JavadZandiyeh/Coursera-Introduction-to-Git-and-GitHub/blob/main/Hands-On/Push-Local-Commits-to-Github.md)
